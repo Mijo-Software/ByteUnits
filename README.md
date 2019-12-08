@@ -1,2 +1,2 @@
 # ByteUnits
-Provide some methods to convert byte units
+A small class to provide some methods to convert byte units
